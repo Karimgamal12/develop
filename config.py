@@ -7,7 +7,7 @@ r = redis.Redis(
   port=17811,
   password='y41sFD7N8cY5Ob2MGPZkGdrTndVFY92h')
 
-sudo_id = 6581896306
+sudo_id = 6396782078
 bot_user = Mody.BOT_USER
 via_user = Mody.VIA_USER
 elhyba = bot_user
@@ -16,7 +16,7 @@ api_id = Mody.APP_ID
 api_hash = Mody.API_HASH
 session = Mody.SESSION
 token = Mody.TG_BOT_TOKEN
-sudo_command = [6581896306]
+sudo_command = [6396782078]
 pm =  Mody.MENTION
 mention = "6581896306"
 plugins = dict(root="plugins")
