@@ -8,8 +8,8 @@ async def main():
   await app.start()
   await bot.start()
   try :
-    await app.join_chat("Source_Ze")
-    await app.join_chat("ZeSupport")
+    await app.join_chat("Software_codes")
+    await app.join_chat("P_PP_Pi")
   except :
     pass
   await name()
